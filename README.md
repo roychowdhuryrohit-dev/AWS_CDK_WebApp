@@ -1,7 +1,7 @@
 # AWS CDK Fullstack
 This project is about getting hands-on experience with deploying a Full Stack web app based on **React(w/ TailwindCSS)** and deployed using **AWS CDK** which is a infrastructure-as-a-code solution by AWS.
 
-It was hosted using **Amazon Amplify** - https://main.d6fn1cghey1cx.amplifyapp.com
+It was hosted using **Amazon Amplify**.
 
 ## Usage
 Following steps should be run to deploy the web app:
